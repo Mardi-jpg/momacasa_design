@@ -1,4 +1,11 @@
 .room-header-img {
     width: 100%;
-    height: 40vh;
+    height: 45vh;
+    object-fit: cover;
+    opacity: 60%;
+}
+
+.charateristics {
+    display: grid;
+    grid-row: auto auto auto auto auto;
 }
